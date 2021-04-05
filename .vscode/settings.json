@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2acc8a84-6261-48be-a589-5b6983f616ea/resourceGroups/free/providers/Microsoft.Web/sites/leenet3",
+    "appService.deploySubpath": "."
+}

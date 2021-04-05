@@ -1,0 +1,7 @@
+version: '3'
+services:
+  corsanywhere:
+    build: .
+    image: charlierlee/corsanywhere
+    ports:
+      - "80:8080"
